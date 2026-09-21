@@ -39,7 +39,7 @@ function App() {
   return (
     <div className="app">
       <div className="timer">
-        <h1>뽀모도로 타이머</h1>
+        <h1>Timer</h1>
 
         <p className="mode">
           {isBreak ? "☕ 휴식 시간" : "🔥 집중 시간"}
